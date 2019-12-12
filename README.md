@@ -1,6 +1,7 @@
 This script is created using Robot Framework and PyCharm IDE as Automation tool.
 
 File:
+
 CentralizeSuite.robot
   - Consists of keywords that can be called and used in TestCasesSuite.robot or any test suite.
   
