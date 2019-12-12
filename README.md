@@ -25,4 +25,5 @@ Tested and Automated Modules of http://automationpractice.com/index.php web appl
   - Logout
   
 Run the script using the command on your terminal
+  
   robot TestCasesSuite.robot
